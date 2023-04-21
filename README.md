@@ -1,6 +1,6 @@
 ### ✨ Who am ?
 
-My name is Gerardo Corbisiero and I’m a fullstack web developer with a passion for building 'pretty things' on the web. On this page you will find all of the code snippets that I share on my social media platforms.
+Hi, I’m a fullstack web developer with a passion for building 'pretty things' on the web. On this page you will find all of the code snippets that I share on my social media platforms.
 
 #### 🔗 Find me on the following platforms
 
